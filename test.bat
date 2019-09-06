@@ -1,1 +1,1 @@
-Sem.exe < input.txt > out.txt
+code.exe < input.txt > out.txt
