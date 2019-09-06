@@ -2,7 +2,7 @@
 
 Script para otimizar a entrada e saída de dados em C (principalmente para maratonas de programação)
 
-<b>Como usar?
+<b>Como usar?<b>
 
 O arquivo test é um bash do windows, para ver seu codigo, botão direito e editar:
 
@@ -18,6 +18,6 @@ Out.txt ainda não existe mas será criado assim que dermos um duplo click no "t
 
 "1 2 3 4 5" (retorno do exemplo)
 
-<b>Utilidades
+<b>Utilidades<b>
 
 Sua maior utilidade é para maratona de programação em que os exercícios possuem muitas entradas e precisam ser testados várias vezes para achar possíveis erros.
