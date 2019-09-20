@@ -16,7 +16,7 @@ O arquivo test é um bash do windows (para ver seu código, basta clicar com o b
 
 **Out.txt** ainda não existe mas será criado assim que dermos um duplo click no "test", ele irá procurar o código fonte, colocar os inputs no programa e devolver um arquivo .txt que será a saída do programa, nesse caso:
 
-"1 2 3 4 5" (retorno do exemplo)
+"10 20 30 40 50" (retorno do exemplo)
 
 # Utilidades
 
